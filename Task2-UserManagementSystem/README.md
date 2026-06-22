@@ -90,7 +90,6 @@ python app.py
 ---
 
 # 🚀 If you want next upgrade
-
 I can also help you:
 - 💼 [Write LinkedIn post for this project](reference-followup:2951)
 - 🎤 [Prepare interview explanation script](reference-followup:2992)
