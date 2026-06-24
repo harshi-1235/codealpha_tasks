@@ -33,25 +33,6 @@ SecureLoginSystem/
 ├── database/
 │   └── securelogin.db
 
-▶️ How to Run:
-
-1. Clone the Repository
-Bash
-git clone https://github.com/yourusername/SecureLoginSystem.git
-
-2. Open the Project
-Open the project folder using Visual Studio Code or your preferred Python IDE.
-
-3. Install Required Packages
-Bash
-pip install -r requirements.txt
-or install manually:
-Bash
-pip install bcrypt cryptography
-
-4. Run the Application
-Bash
-python main.py
 🔐 Security Features:
 Passwords are securely hashed using bcrypt before storage.
 Sensitive information is encrypted using AES-256 encryption.
