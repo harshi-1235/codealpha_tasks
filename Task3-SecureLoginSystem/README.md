@@ -1,25 +1,25 @@
 🔐 Secure Data Storage System
 📌 Description:
-The Secure Data Storage System is a Python-based desktop application developed to securely store and manage sensitive user information. The application implements modern security techniques, including password hashing with bcrypt, AES-256 encryption/decryption, and SQLite database integration, ensuring that confidential data remains protected from unauthorized access.
+ The Secure Data Storage System is a Python-based desktop application developed to securely store and manage sensitive user information. The  application implements modern security techniques, including password hashing with bcrypt, AES-256 encryption/decryption, and SQLite database  integration, ensuring that confidential data remains protected from unauthorized access.
 The project provides a simple and intuitive graphical user interface (GUI) built with Tkinter, allowing users to register, log in, securely save encrypted data, and retrieve it when needed. It demonstrates secure authentication, encrypted data storage, and best practices for handling sensitive information in desktop applications.
 ✨ Features:
-🔐 Secure User Registration
-👤 User Authentication (Login System)
-🔒 Password Hashing using bcrypt
-🛡️ AES-256 Encryption & Decryption
-💾 Secure Data Storage with SQLite
-🚫 SQL Injection Prevention using Parameterized Queries
-🖥️ User-Friendly Tkinter GUI
-📂 Store and Retrieve Encrypted Information
-⚡ Fast and Lightweight Desktop Application
-🛠️ Technologies Used:
-Python 3.x
-Tkinter
-SQLite3
-bcrypt
-Cryptography (AES-256)
-OS Module
-Base64 Encoding
+ 🔐 Secure User Registration
+ 👤 User Authentication (Login System)
+ 🔒 Password Hashing using bcrypt
+ 🛡️ AES-256 Encryption & Decryption
+ 💾 Secure Data Storage with SQLite
+ 🚫 SQL Injection Prevention using Parameterized Queries
+ 🖥️ User-Friendly Tkinter GUI
+ 📂 Store and Retrieve Encrypted Information
+ ⚡ Fast and Lightweight Desktop Application
+ 🛠️ Technologies Used:
+ Python 3.x
+ Tkinter
+ SQLite3
+ bcrypt
+ Cryptography (AES-256)
+ OS Module
+ Base64 Encoding
 📁 Project Structure:
 SecureLoginSystem/
 │
